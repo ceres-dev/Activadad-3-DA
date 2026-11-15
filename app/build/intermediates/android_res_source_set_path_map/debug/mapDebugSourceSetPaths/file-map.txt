@@ -1,0 +1,8 @@
+com.example.actividad3da.app-pngs-0 C:\Users\Cagut\AndroidStudioProjects\Actividad3DA\app\build\generated\res\pngs\debug
+com.example.actividad3da.app-updated_navigation_xml-1 C:\Users\Cagut\AndroidStudioProjects\Actividad3DA\app\build\generated\updated_navigation_xml\debug
+com.example.actividad3da.app-packageDebugResources-2 C:\Users\Cagut\AndroidStudioProjects\Actividad3DA\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.actividad3da.app-packageDebugResources-3 C:\Users\Cagut\AndroidStudioProjects\Actividad3DA\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.actividad3da.app-debug-4 C:\Users\Cagut\AndroidStudioProjects\Actividad3DA\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.actividad3da.app-debug-5 C:\Users\Cagut\AndroidStudioProjects\Actividad3DA\app\src\debug\res
+com.example.actividad3da.app-main-6 C:\Users\Cagut\AndroidStudioProjects\Actividad3DA\app\src\main\res
+gradleHome-0 C:\Users\Cagut\.gradle
